@@ -9,9 +9,10 @@ As OpenAI released new features like built-in RAG, memory, system prompts, and c
 However this was a great way to get intimate with the hot new hotness at the time - vector databases, langchain, as well as pushing the boundaries of streamlit (we started out with gradio).
 
 ## Project Stack
-<ul>Langchain - simplifies RAG, built-in document loaders like txt, pdf, etc, and provides prompt templates</ul>
-<ul>Chroma DB - free fast local vector store for RAG, great for proof of concepts</ul>
-<ul>Streamlit - easily create simple web interfaces in python</ul>
+
+- Langchain - simplifies RAG, built-in document loaders like txt, pdf, etc, and provides prompt templates
+- Chroma DB - free fast local vector store for RAG, great for proof of concepts
+- Streamlit - easily create simple web interfaces in python
 
 ## Getting Started
 
