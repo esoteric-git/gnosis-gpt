@@ -10,7 +10,9 @@ However this was a great way to get intimate with the hot new hotness at the tim
 
 ## Project Stack
 Langchain - simplifies RAG, built-in document loaders like txt, pdf, etc, and provides prompt templates
+
 Chroma DB - free fast local vector store for RAG, great for proof of concepts
+
 Streamlit - easily create simple web interfaces in python
 
 ## Getting Started
