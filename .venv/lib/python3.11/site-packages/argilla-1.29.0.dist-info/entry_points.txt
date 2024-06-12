@@ -1,0 +1,2 @@
+[console_scripts]
+argilla = argilla.cli.app:app
