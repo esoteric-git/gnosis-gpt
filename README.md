@@ -2,6 +2,17 @@
 
 Gnosis GPT is a chatbot that allows you to upload files and chat with them using ChatGPT or Anthropic.
 
+This was a commissioned prototype we developed in early 2023 to explore the potential of RAG (Retrieval Augmented Generation) and private GPT's and the flexibility of being able to toggle between several LLM's and prompting styles.
+
+As OpenAI released new features like built-in RAG, memory, system prompts, and custom GPT's this project became less valuable. 
+
+However this was a great way to get intimate with RAG, search, langchain, working with OpenAI API's, and finding out what streamlit was best suited for.
+
+## Project Stack
+Langchain - simplifies RAG, built-in document loaders like txt, pdf, etc, and provides prompt templates
+Chroma DB - free fast local vector store for RAG, great for proof of concepts
+Streamlit - easily create simple web interfaces in python
+
 ## Getting Started
 
 These instructions will get you up and running locally.
